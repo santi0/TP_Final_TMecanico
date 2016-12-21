@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package py.edu.facitec.mec.dao;
 
 import java.sql.ResultSet;
@@ -14,10 +10,7 @@ import java.util.logging.Logger;
 import py.edu.facitec.mec.model.Cliente;
 import py.edu.facitec.mec.util.ConexionManager;
 
-/**
- *
- * @author migueee
- */
+
 public class ClienteDaoImpl  implements ClienteDao{
     //string= ´"++"´
     @Override
